@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Byte-compiled / optimized / DLL files
+*.pyo
+
+# Testing
+.coverage
+.cache
+.pytest_cache/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDEs
+.idea/
+.vscode/
